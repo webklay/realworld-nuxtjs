@@ -57,7 +57,7 @@ module.exports = {
   },
 
   server: {
-    host: '0.0.0.0', 
+    host: '0.0.0.0', //设置可以对外访问
     port: 3000
   },
 
