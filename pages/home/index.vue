@@ -2,7 +2,7 @@
   <div class="home-page">
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">测试标题</h1>
+        <h1 class="logo-font">学习知识</h1>
         <p>A place to share your knowledge.</p>
       </div>
     </div>
